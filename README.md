@@ -1,6 +1,7 @@
 !! NOTICE !! -- The code in this repository is not my own. The code that is being replicated in this repository has been authorized for use via their written consent in their respective repository/repositories. Thank you.
 
-This repository is looking at churn modeling in the banking sector using machine learning techniques as well as possible deep learning techniques.
+This repository is looking at churn modeling in the banking sector using machine learning techniques as well as possible deep learning techniques. 
+Link to the dataset: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 
 This repository is a copy of Sagnik Ghosh's code that can be seen in his own repository via the link below https://github.com/sagnikghoshcr7/Bank-Customer-Churn-Prediction
 
